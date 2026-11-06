@@ -1,0 +1,28 @@
+{
+    "chart_title": "Calories Burned in 30 Minutes",
+    "data_points": [
+        {
+            "label": "Walking",
+            "value": 120
+        },
+        {
+            "label": "Running",
+            "value": 300
+        },
+        {
+            "label": "Cycling",
+            "value": 240
+        },
+        {
+            "label": "Weightlifting",
+            "value": 150
+        },
+        {   "label": "Yoga",
+            "value": 100
+
+        },
+        {   "label": "Swimming",
+            "value": 210
+        }
+]
+}
